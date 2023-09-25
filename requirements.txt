@@ -1,0 +1,10 @@
+coloredlogs
+pillow
+watchdog
+pydub
+requests
+subprocess.run
+pyrogram
+tgcrypto
+
+
